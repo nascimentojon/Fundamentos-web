@@ -1,16 +1,49 @@
 /*estilos da pagina index.html*/
-.center {
-    text-align: center; 
-    color: darkgreen;
+.texto{
+    font-size: 20px;
+}
+p {
+    font-size: 16;
+}
+#titulo {
+    text-align: center;
 }
 
-p {
-    font-size: 20px;
+h1{
+    text-align: center; 
+    color: rgb(13, 183, 35);
+}
+.tm{
+    width: 600px;
+}
+.foto {
+    
+    text-align: center; 
+}
+.subtitulo {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(139, 160, 65);
+}   
+#menu li {
+    font-size: 25px;
+    display: inline;
+    padding: 65px;
     
 }
-
-.foto {
-    text-align: center; 
+#menu li a {
+    text-decoration: none;
+    color: brown;
+}
+#menu li a:hover {
+    color:darkorange ;
+}
+.tm-img {
+    width: 50px;
+    height: 50px;
+}
+#container1 {
+    text-align: center;
 }
 
 
